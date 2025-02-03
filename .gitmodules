@@ -1,0 +1,9 @@
+[submodule "room_style_transfer"]
+	path = room_style_transfer
+	url = https://github.com/Firrnas-s-AI-Team/room_style_transfer.git
+[submodule "nutrition"]
+	path = nutrition
+	url = https://github.com/Firrnas-s-AI-Team/nutrition.git
+[submodule "logistics"]
+	path = logistics
+	url = https://github.com/Firrnas-s-AI-Team/logistics.git
